@@ -1,2 +1,29 @@
 # StringUtilities
 Custom Workflow Activities built to assist with String Operations.
+This repo is used for Dynamics 365 CRM String operations. The following operations were added to allow Administrators and Developers to write workflows with operation. 
+-	Base64Encode
+-	Base64Decode
+-	Contains
+-	CreateEmptySpaces
+-	DecodeHTML
+-	EncodeHTML
+-	EndsWith
+-	Join
+-	Length
+-	PadLeft
+-	PadRight
+-	RandomString
+-	Replace
+-	ReplaceWithSpace
+-	Reverse
+-	StartsWith
+-	Substring
+-	ToLower
+-	ToTitleCase
+-	ToUpper
+-	Trim
+-	RemoveExtraWhiteSpace
+-	RemoveHTML
+-	URLEncode
+-	UrlDecode
+-	WordCount
